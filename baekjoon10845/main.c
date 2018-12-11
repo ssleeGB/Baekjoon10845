@@ -121,7 +121,7 @@ void process_queue()
 
 int main(void)
 {
-    //stack_problem();
+    //queue_problem();
     process_queue();
     return 0;
 }
